@@ -61,7 +61,7 @@ An **EDA** was conducted to understand the structure, quality, and distribution 
 - **Top Channel:** Website Banner – **52%** revenue  
 - **ASP:** ₹649  
 
-💬 *Insight:* May showed peak performance; digital banners drove most sales.
+💬 *Insight:* May showed peak performance.
 
 ---
 
@@ -121,7 +121,6 @@ Applied a **hybrid indexing model**:
 - **Dimension Tables (`fashion.customers`, `fashion.products`):**
   - **Nonclustered Indexes** on `country`, `category` for grouping/filtering.
 
-💬 *Result:* Query performance improved 4–6× for heavy aggregations.
 
 ---
 
@@ -146,8 +145,7 @@ Applied a **hybrid indexing model**:
 
 ## 🛠️ Tech Stack
 - **SQL Server (T-SQL)** – database & analytics  
-- **Excel + Power Query** – data cleaning  
-- **Power BI (future)** – visualization  
+- **Excel + Power Query** – data cleaning   
 - **GitHub** – version control  
 
 ---
