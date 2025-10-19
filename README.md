@@ -137,9 +137,9 @@ Applied a **hybrid indexing model**:
 | Step | File | Description |
 |------|------|-------------|
 | 1️⃣ | `01_Data_Setup.sql` | Create DB, schema, tables, and bulk insert data |
-| 2️⃣ | `02_Views_and_Indexes.sql` | Define views and performance indexes |
-| 3️⃣ | `03_Exploratory_Data_Analysis.sql` | Perform EDA and validate data |
-| 4️⃣ | `04_Business_Insights_and_Metrics.sql` | Generate business insights |
+| 2️⃣ | `02_EDA Analysis.sql` | Define views and performance indexes |
+| 3️⃣ | `03_Business_Insights.sql` | Perform EDA and validate data |
+| 4️⃣ | `04_views and indexes.sql` | Generate business insights |
 
 ---
 
